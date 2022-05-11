@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Ninja/.idea/Ninja.iml" filepath="$PROJECT_DIR$/../Ninja/.idea/Ninja.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../NinjaPageObject/.idea/NinjaPageObject.iml" filepath="$PROJECT_DIR$/../NinjaPageObject/.idea/NinjaPageObject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Workload_Tracking/.idea/Workload_Tracking.iml" filepath="$PROJECT_DIR$/../Workload_Tracking/.idea/Workload_Tracking.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../elegantframeworks-config_recipe/.idea/elegantframeworks-config_recipe.iml" filepath="$PROJECT_DIR$/../elegantframeworks-config_recipe/.idea/elegantframeworks-config_recipe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../frameworks_demo/.idea/frameworks_demo.iml" filepath="$PROJECT_DIR$/../frameworks_demo/.idea/frameworks_demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../selenium_final_project/.idea/selenium_final_project.iml" filepath="$PROJECT_DIR$/../selenium_final_project/.idea/selenium_final_project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/stepik_advanced.iml" filepath="$PROJECT_DIR$/.idea/stepik_advanced.iml" />
+    </modules>
+  </component>
+</project>

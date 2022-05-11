@@ -1,0 +1,8 @@
+# value = 'ELEGANT AUTOMATION FRAMEWORKS WITH PYTHON AND PYTEST'
+#
+# print(value.lower())
+CORRECT_HOURS_IN_TABLE = "0123456789-."
+print(set('23.75'))
+print(set(CORRECT_HOURS_IN_TABLE))
+print(set('0')in set(CORRECT_HOURS_IN_TABLE))
+
